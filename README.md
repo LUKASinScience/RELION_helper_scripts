@@ -3,4 +3,4 @@
 
 Workflow Documentation: Creates visual RELION job trees (PNG/SVG) documenting job parameters and pipeline history.  
 
-STAR File Curation: Scripts for modifying, validating, and ensuring consistency across various .star files (e.g., managing optics groups)
+STAR File Modification/Curation: Scripts for modifying, validating, and ensuring consistency across various .star files (e.g., managing optics groups)
